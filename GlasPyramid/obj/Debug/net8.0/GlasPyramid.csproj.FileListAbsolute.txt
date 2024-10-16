@@ -1,0 +1,14 @@
+D:\Projects\GlasPyramid\GlasPyramid\bin\Debug\net8.0\GlasPyramid.exe
+D:\Projects\GlasPyramid\GlasPyramid\bin\Debug\net8.0\GlasPyramid.deps.json
+D:\Projects\GlasPyramid\GlasPyramid\bin\Debug\net8.0\GlasPyramid.runtimeconfig.json
+D:\Projects\GlasPyramid\GlasPyramid\bin\Debug\net8.0\GlasPyramid.dll
+D:\Projects\GlasPyramid\GlasPyramid\bin\Debug\net8.0\GlasPyramid.pdb
+D:\Projects\GlasPyramid\GlasPyramid\obj\Debug\net8.0\GlasPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GlasPyramid\GlasPyramid\obj\Debug\net8.0\GlasPyramid.AssemblyInfoInputs.cache
+D:\Projects\GlasPyramid\GlasPyramid\obj\Debug\net8.0\GlasPyramid.AssemblyInfo.cs
+D:\Projects\GlasPyramid\GlasPyramid\obj\Debug\net8.0\GlasPyramid.csproj.CoreCompileInputs.cache
+D:\Projects\GlasPyramid\GlasPyramid\obj\Debug\net8.0\GlasPyramid.dll
+D:\Projects\GlasPyramid\GlasPyramid\obj\Debug\net8.0\refint\GlasPyramid.dll
+D:\Projects\GlasPyramid\GlasPyramid\obj\Debug\net8.0\GlasPyramid.pdb
+D:\Projects\GlasPyramid\GlasPyramid\obj\Debug\net8.0\GlasPyramid.genruntimeconfig.cache
+D:\Projects\GlasPyramid\GlasPyramid\obj\Debug\net8.0\ref\GlasPyramid.dll
